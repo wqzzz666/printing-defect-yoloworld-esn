@@ -1,0 +1,9 @@
+ultralytics>=8.0.0
+torch>=1.12
+torchvision>=0.13
+transformers>=4.30
+albumentations>=1.3
+opencv-python
+pillow
+numpy
+tqdm
